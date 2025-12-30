@@ -70,7 +70,7 @@ npm install --production
 3. **Update the Package**:
    To update the package version, modify the `version` field in `package.json` and run:
    ```bash
-   npm publish
+   npm update <package-name>
    ```
 
 ## License
